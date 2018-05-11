@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+bearlive-server/.idea/
+bearlive-server/bearlive-server.iml
+bearlive-server/out/artifacts/bearlive_server_war_exploded/
+bearlive-server/out/production/
