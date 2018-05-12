@@ -11,6 +11,7 @@ import com.github.microkibaco.bearlive.widget.TransParentDialog;
 
 
 public class EditGenderDialog extends TransParentDialog {
+
     private RadioButton maleView;
     private RadioButton femaleView;
 
